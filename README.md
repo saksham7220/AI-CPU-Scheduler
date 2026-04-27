@@ -19,3 +19,11 @@ This project implements an intelligent CPU scheduling system that uses Machine L
 - Python
 - Machine Learning (Linear Regression / Decision Tree)
 - Operating System Scheduling Algorithms
+
+- ## Run the Project
+
+### Step 1: Install dependencies
+pip install -r requirements.txt
+
+### Step 2: Run the app
+streamlit run app.py
